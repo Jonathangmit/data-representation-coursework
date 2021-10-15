@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+	<technical_books>
+		<book isbn = "0-85950-378-X">
+			<title>A concise course in A level statistics</title>
+			<author>J.Crawshaw</author>
+		</book>
+		<book isbn = "0-471-53478-1">
+			<title>Elementary priciples of Chemical Engineering</title>
+			<author>Richard M.Felder</author>
+		</book>
+	</technical_books>
+	<cookery_books>
+		<book isbn = "978-0-241-37144-2">
+			<title>Jamie's Friday night dinners</title>
+			<author>Jaime Oliver</author>
+		</book>	
+		<book isbn = "978-0-297-86325-0">
+			<title>The Hairy bikers perfect pies</title>
+			<author>Si King</author>
+		</book>
+	</cookery_books>
+</library>
